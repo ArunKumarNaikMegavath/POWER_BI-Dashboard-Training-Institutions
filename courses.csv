@@ -1,0 +1,51 @@
+CourseID,CourseName,Category,Fee,Rating,Hours,InstructorID
+1,Python for Data Science,Data Science,240.57,1.6,84,21
+2,"Web Development with HTML, CSS & JavaScript",Web Development,483.68,2.3,69,28
+3,Cybersecurity Essentials,Cybersecurity,411.7,3.3,96,17
+4,UI/UX Design Principles,UI/UX,215.14,1.5,26,1
+5,Digital Marketing Strategy,Digital Marketing,161.09,2.8,72,21
+6,AWS Cloud Practitioner,Cloud Computing,210.31,4.6,69,20
+7,Mobile App Development with Flutter,Mobile App Development,407.69,1.9,53,26
+8,Game Development with Unity,Game Development,261.13,1.6,73,26
+9,Introduction to Artificial Intelligence,Artificial Intelligence,394.0,1.7,77,19
+10,Blockchain Development with Solidity,Blockchain,460.72,1.8,14,11
+11,Data Analytics with Excel,Data Science,143.75,3.5,62,24
+12,Machine Learning with Python,Data Science,380.86,4.8,70,27
+13,React Native for Mobile Development,Mobile App Development,373.34,3.8,72,11
+14,DevOps Foundations,Cloud Computing,287.28,1.7,79,7
+15,SQL for Data Analysis,Data Science,336.27,2.8,46,23
+16,Advanced JavaScript,Web Development,389.7,1.1,14,6
+17,Kubernetes for Developers,Cloud Computing,309.39,2.7,65,10
+18,Penetration Testing with Kali Linux,Cybersecurity,324.87,2.3,91,30
+19,Google Cloud Platform Fundamentals,Cloud Computing,286.18,3.2,30,4
+20,Design Thinking for Innovation,UI/UX,159.2,1.6,69,5
+21,Ethical Hacking,Cybersecurity,335.93,1.9,25,3
+22,Data Visualization with Power BI,Data Science,364.87,3.3,49,5
+23,Natural Language Processing with Python,Data Science,311.09,2.1,66,19
+24,Introduction to Docker,Cloud Computing,249.2,3.6,84,22
+25,Robotic Process Automation (RPA),Artificial Intelligence,248.76,1.3,82,11
+26,Agile Project Management,UI/UX,454.45,2.7,17,5
+27,Deep Learning with TensorFlow,Data Science,338.89,4.4,44,27
+28,Cybersecurity Operations,Cybersecurity,480.67,3.6,53,7
+29,SEO Fundamentals,Digital Marketing,259.54,2.4,65,8
+30,iOS Development with Swift,Mobile App Development,213.52,4.2,45,4
+31,Android App Development,Mobile App Development,360.74,1.1,91,27
+32,Data Science with R,Data Science,452.3,4.7,15,5
+33,Node.js for Backend Development,Web Development,232.98,4.0,90,4
+34,Frontend Development with Vue.js,Web Development,132.17,1.1,31,19
+35,Digital Transformation,Digital Marketing,276.9,1.1,21,4
+36,Introduction to Quantum Computing,Artificial Intelligence,175.59,3.4,15,8
+37,Big Data Analytics with Hadoop,Data Science,291.18,2.3,23,8
+38,Full Stack Web Development,Web Development,227.58,3.1,53,23
+39,Serverless Architectures,Cloud Computing,400.89,2.9,35,25
+40,Cloud Security,Cloud Computing,316.42,3.3,45,28
+41,Python for Automation,Data Science,226.2,1.7,63,4
+42,Blockchain Basics,Blockchain,485.91,4.3,57,26
+43,Advanced SQL Queries,Data Science,101.34,4.3,25,13
+44,API Development with Python and Flask,Web Development,122.03,1.0,28,30
+45,Introduction to Data Engineering,Data Science,196.94,3.0,90,16
+46,ITIL Foundations,Cloud Computing,270.98,4.5,55,10
+47,Power BI Advanced Analytics,Data Science,161.67,1.9,57,4
+48,Certified Information Systems Security Professional (CISSP),Cybersecurity,425.37,4.0,99,14
+49,Google Ads Certification,Digital Marketing,459.3,1.0,75,11
+50,Facebook Ads & Instagram Ads Mastery,Digital Marketing,423.03,1.7,75,3
